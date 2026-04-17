@@ -85,6 +85,19 @@ Phase 5 – ML Integration & Evaluation
   - Priority-based inspection queue for field teams
   - Full audit trail via SQLite
 
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban1.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban2.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban3.png" />
+</p>
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban4.png" />
+</p>
+
 *6. Current Limitations*
 
   - Sentinel-2 10m resolution limits detection of very small structures
