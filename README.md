@@ -35,6 +35,7 @@ Inspection Priority
 
 
 *1. Project Objective*
+
 Develop a human-in-the-loop GeoAI system to detect and prioritize potential unauthorized building developments and land-use violations using:
 
   - Sentinel-2 satellite imagery (10m resolution)
