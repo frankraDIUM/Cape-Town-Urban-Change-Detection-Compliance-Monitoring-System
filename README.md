@@ -12,6 +12,27 @@ Dashboard Preview
 
 ---
 
+Review System
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban1.png" />
+</p>
+
+ML Lab
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban2.png" />
+</p>
+
+Evaluation
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban3.png" />
+</p>
+
+Inspection Priority
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban4.png" />
+</p>
+---
+
 
 *1. Project Objective*
 Develop a human-in-the-loop GeoAI system to detect and prioritize potential unauthorized building developments and land-use violations using:
@@ -84,27 +105,7 @@ Phase 5 – ML Integration & Evaluation
   - Active Learning mode (uncertainty-based sampling)
   - Priority-based inspection queue for field teams
   - Full audit trail via SQLite
----
-Review System
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban1.png" />
-</p>
 
-ML Lab
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban2.png" />
-</p>
-
-Evaluation
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban3.png" />
-</p>
-
-Inspection Priority
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban4.png" />
-</p>
----
 
 *6. Current Limitations*
 
