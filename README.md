@@ -60,6 +60,7 @@ Develop a human-in-the-loop GeoAI system to detect and prioritize potential unau
   - Frontend: Streamlit dashboard with interactive Folium map
 
 *4. Methodology & Key Components*
+
 Phase 1 – Data Acquisition & Preprocessing
 
   - Clipped official building footprints and zoning layers to AOI
