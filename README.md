@@ -31,6 +31,7 @@ Evaluation
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban3.png" />
 </p>
+
 ---
 
 Inspection Priority
