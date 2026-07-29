@@ -18,21 +18,25 @@ Review System
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban1.png" />
 </p>
 ---
+
 ML Lab
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban2.png" />
 </p>
 ---
+
 Evaluation
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban3.png" />
 </p>
 ---
+
 Inspection Priority
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban4.png" />
 </p>
 ---
+
 
 
 *1. Project Overview*
