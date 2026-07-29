@@ -1,5 +1,6 @@
 # 🏙️ Cape Town Urban Change Detection Compliance Monitoring System
-A Human-in-the-Loop GeoAI tool for detecting unauthorized urban development in Khayelitsha, Cape Town. This project combines Sentinel-2 satellite imagery, official Cape Town GIS layers, change detection, rule-based compliance, and machine learning to help urban planners identify and prioritize potential land-use violations.
+A Human-in-the-Loop GeoAI tool for detecting unauthorized urban development in Khayelitsha, Cape Town. This project combines Sentinel-2 satellite imagery, 
+official Cape Town GIS layers, change detection, rule-based compliance, and machine learning to help urban planners identify and prioritize potential land-use violations.
 
 Focus Area: Khayelitsha (Informal Settlement Expansion)
 
@@ -16,17 +17,17 @@ Review System
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban1.png" />
 </p>
-
+---
 ML Lab
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban2.png" />
 </p>
-
+---
 Evaluation
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban3.png" />
 </p>
-
+---
 Inspection Priority
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban4.png" />
@@ -36,7 +37,8 @@ Inspection Priority
 
 *1. Project Overview*
 
-This system combines Sentinel-2 satellite imagery, official City of Cape Town GIS data, change detection, rule-based compliance, and machine learning to support urban planning and enforcement teams.
+This system combines Sentinel-2 satellite imagery, official City of Cape Town GIS data, change detection, 
+rule-based compliance, and machine learning to support urban planning and enforcement teams.
 
 
 *2. Study Area*
