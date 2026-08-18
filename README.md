@@ -4,6 +4,16 @@ official Cape Town GIS layers, change detection, rule-based compliance, and mach
 
 Focus Area: Khayelitsha (Informal Settlement Expansion)
 
+
+---
+Final Preview
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/cape_final.gif" />
+</p>
+
+---
+
 ---
 Dashboard Preview
 
